@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paprikadarlingtoniapurpuraquevedo
-- 👀 I’m interested in learning new codes.
-- 🌱 I’m currently learning Node.js
+- 👀 I’m always interested in learning more.
+- 🌱 I'm a full-stack developer.
 - 💞️ I’m looking to collaborate on any project according to my skills.
 - 📫 How to reach me: carlos.costa37@yahoo.com
 - 😄 Pronouns: You choose!
